@@ -8,14 +8,14 @@ Worked 7 years as a Field Service Engineer in the Healthcare industry and now tr
 
 ### 🎓 Background
 
-- :school: Electrical Engineer by Training: Solid foundation in problem-solving and technical skills.
-- :computer: Web Development Bootcamp: Recently completed a comprehensive bootcamp at Le Wagon Tokyo.
+- :school: **Electrical Engineer by Training:** Solid foundation in problem-solving and technical skills.
+- :computer: **Web Development Bootcamp:** Recently completed a comprehensive bootcamp at Le Wagon Tokyo.
 
 ### :ghost: Personal Interest
 
-- 💪 Fitness Enthusiast: Active in the gym, boxing, snowboarding, and bouldering.
-- 🌍 Traveler: Passionate about exploring new places and most important, eat a lot of delicious **food**.
-- 🎮 Gamer: Loves playing multiplayer and metroidvania games.
+- 💪 **Fitness Enthusiast:** Active in the gym, boxing, snowboarding, and bouldering.
+- 🌍 **Traveler:** Passionate about exploring new places and most important, eat a lot of delicious **food**.
+- 🎮 **Gamer:** Loves playing multiplayer and metroidvania games.
 
 ### :bulb: Tech Stack & Tools
 - **Languages:** ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
