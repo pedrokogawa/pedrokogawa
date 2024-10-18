@@ -11,7 +11,7 @@ Worked 7 years as a Field Service Engineer in the Healthcare industry and now tr
 - :school: **Electrical Engineer by Training:** Solid foundation in problem-solving and technical skills.
 - :computer: **Web Development Bootcamp:** Recently completed a comprehensive bootcamp at Le Wagon Tokyo.
 
-### :ghost: Personal Interest
+### :desktop_computer: Personal Interest
 
 - 💪 **Fitness Enthusiast:** Active in the gym, boxing, snowboarding, and bouldering.
 - 🌍 **Traveler:** Passionate about exploring new places and most important, eat a lot of delicious **food**.
