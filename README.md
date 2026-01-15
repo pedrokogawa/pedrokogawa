@@ -1,6 +1,8 @@
 ## Hi, I'm Pedro! 👋
 
-Worked 7 years as a Field Service Engineer in the Healthcare industry and now transitioning to a new and exciting career in Web Development. Passionate about backend development, I’m eager to take on new challenges.
+Field Service Engineer with 7+ years of experience in healthcare and semiconductor equipment. Currently working as an FSE in the semiconductor industry.
+
+I study and practice full-stack development as a personal interest, using it to build small projects and to enhance problem-solving, automation, and system-level thinking.
 
 [![Twitter: ](https://img.shields.io/twitter/follow/pkogawa?style=social)](https://twitter.com/pkogawa)
 [![Linkedin: pedrokogawa](https://img.shields.io/badge/-pedrokogawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrokogawa/)](https://www.linkedin.com/in/pedrokogawa/)
